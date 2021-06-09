@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-03-20T13:30:39.442Z</updated>
+    <updated>2021-06-09T08:05:27.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://ywhfamily.github.io/images/avatar.png</logo>
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Moving Maze]]></title>
+        <id>https://ywhfamily.github.io/post/yi-dong-mi-gong/</id>
+        <link href="https://ywhfamily.github.io/post/yi-dong-mi-gong/">
+        </link>
+        <updated>2021-06-09T08:01:49.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>About Moveing Maze<br>
+Moving Maze is a novel and interesting game of reasoning. The game aims to move the smiling face from the bottom left corner of the maze to the top right corner. When moving one step, all horizontal walls in the maze move one grid to the left,  all vertical walls move down one grid. For every step, the structure of the maze changes. Until you move to the end.</p>
+</li>
+<li>
+<p>How to Play<br>
+A. Move: the smiling face can move in four directions, but it cannot pass through the wall. There are three ways to move: click the direction button on the screen, slide on the maze and use the direction key on keyboard(if having).<br>
+B. Reset: click the RESET button in the upper right corner.<br>
+C. Tip: click the HINT button right above.</p>
+</li>
+</ol>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1567142235"><img src="/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.moving-maze"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reverse - Unified Color]]></title>
         <id>https://ywhfamily.github.io/post/reverse-unified-color/</id>
@@ -155,40 +186,6 @@ or leave comment below.</p>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1437754475"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
 <p><a href="https://www.microsoft.com/store/apps/9NBW9NN8QQP8"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
-</th>
-</tr>
-</table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Block Game]]></title>
-        <id>https://ywhfamily.github.io/post/polygon-block-game/</id>
-        <link href="https://ywhfamily.github.io/post/polygon-block-game/">
-        </link>
-        <updated>2021-02-16T13:57:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
-<!-- more -->
-<p>This game include FOUR type of tile matching Games. The board consists of sticks, triangles, squares or hexagons.  The square board is same as famous 1010 or woody puzzle. But the stick board is rare to see. Each game have Five board size and More block shape types.  The game is simple and relaxing. Just drag the block and drop to the empty place of board.   when a line(Horizontal, vertical, diagonal) is filled with the blocks, they will disappear.</p>
-<p>How to Play</p>
-<ol>
-<li>Objective: Complete a line of blocks across the board to remove them. The more removed, The high scores.</li>
-<li>Play: Drag the block and drop it on the empty place of board.</li>
-<li>Click the icon on the upper right corner to renew blocks, Three chances in a round.</li>
-</ol>
-<p>Getting Support:<br>
-mail: ywhfamily@hotmail.com<br>
-or leave comment below.</p>
-<table>
-<tr align="center">
-<th>
-<a href="https://itunes.apple.com/cn/app/id1443489763"><img src="/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.polyform_tile"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
-</th>
-<th>
-<a href="https://itunes.apple.com/cn/app/id1443485354"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9PMG418QL8VG"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
