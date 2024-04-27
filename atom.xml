@@ -1,19 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ywhfamily.github.io</id>
+    <id>http://localhost:4000</id>
     <title>YWH Family</title>
-    <updated>2021-06-09T09:19:49.025Z</updated>
+    <updated>2024-04-27T12:01:41.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ywhfamily.github.io"/>
-    <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>Logic &amp; Math Puzzles</subtitle>
-    <logo>https://ywhfamily.github.io/images/avatar.png</logo>
-    <icon>https://ywhfamily.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, YWH Family</rights>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2024, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Star Exploration]]></title>
+        <id>http://localhost:4000/post/star-exploration/</id>
+        <link href="http://localhost:4000/post/star-exploration/">
+        </link>
+        <updated>2024-04-06T13:07:48.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>About Star Exploration<br>
+Star Exploration is a novel and interesting game of reasoning. The star map is divided into multiple star regions, some of which have a planet with a color of red, yellow, and blue. The purpose of the game is to gather three planets of different colors together through movement, and there is only one aggregated planet in each sector area divided from the center of the circle.</p>
+</li>
+<li>
+<p>How to Play<br>
+a. Move: Each planet can only move up to one step. The blue planet can move diagonally by one grid, the green planet can move left and right or up and down by one grid, and the red planet can move up, down, left and right by two grid.<br>
+b. Zoom: Click the + - button to zoom in or out on the star map. Drag and drop star map in the blank space.<br>
+c. Undo: click the UNDO button in the upper right corner.<br>
+d. Hint: click the HINT button right above.</p>
+</li>
+</ol>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id6479958031"><img src="/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.star"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id6479958031"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NCM8RK8BP9L"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moving Maze]]></title>
-        <id>https://ywhfamily.github.io/post/yi-dong-mi-gong/</id>
-        <link href="https://ywhfamily.github.io/post/yi-dong-mi-gong/">
+        <id>http://localhost:4000/post/yi-dong-mi-gong/</id>
+        <link href="http://localhost:4000/post/yi-dong-mi-gong/">
         </link>
         <updated>2021-06-09T08:01:49.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -43,8 +79,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reverse - Unified Color]]></title>
-        <id>https://ywhfamily.github.io/post/reverse-unified-color/</id>
-        <link href="https://ywhfamily.github.io/post/reverse-unified-color/">
+        <id>http://localhost:4000/post/reverse-unified-color/</id>
+        <link href="http://localhost:4000/post/reverse-unified-color/">
         </link>
         <updated>2021-02-16T14:03:29.000Z</updated>
         <summary type="html"><![CDATA[<p>The Puzzles of Color. You can Reverse, Rotate and Slide color blocks.  There are 18 puzzles. Each have 6 stages with infinite levels. You can play as long as you like.</p>
@@ -75,8 +111,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Relay Flip]]></title>
-        <id>https://ywhfamily.github.io/post/relay-flip/</id>
-        <link href="https://ywhfamily.github.io/post/relay-flip/">
+        <id>http://localhost:4000/post/relay-flip/</id>
+        <link href="http://localhost:4000/post/relay-flip/">
         </link>
         <updated>2021-02-16T14:03:07.000Z</updated>
         <summary type="html"><![CDATA[<p>A Stroke Puzzle</p>
@@ -121,8 +157,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[15 Puzzle Polygon]]></title>
-        <id>https://ywhfamily.github.io/post/15-puzzle-polygon/</id>
-        <link href="https://ywhfamily.github.io/post/15-puzzle-polygon/">
+        <id>http://localhost:4000/post/15-puzzle-polygon/</id>
+        <link href="http://localhost:4000/post/15-puzzle-polygon/">
         </link>
         <updated>2021-02-16T14:02:22.000Z</updated>
         <summary type="html"><![CDATA[<p>15 Puzzle Enhanced Version. Fixed Block Mode and Irregular Board Mode. Three Shapes: Square, Triangle, Hexagon.</p>
@@ -149,43 +185,6 @@ or leave comment below.</p>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1493750839"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
 <p><a href="https://www.microsoft.com/store/apps/9PFZ9CQ36VLT"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
-</th>
-</tr>
-</table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overlap Elimination]]></title>
-        <id>https://ywhfamily.github.io/post/overlap-elimination/</id>
-        <link href="https://ywhfamily.github.io/post/overlap-elimination/">
-        </link>
-        <updated>2021-02-16T14:01:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>Puzzle 1 + 1 = 0,<br>
-Black &amp; White, Tricolor(Red, Green, Blue).<br>
-Challenge your brain.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Puzzle 1 + 1 = 0,<br>
-Black &amp; White, Tricolor(Red, Green, Blue).<br>
-Challenge your brain.</p>
-<!-- more -->
-<p>Overlap Elimination is an interesting puzzle game. The objective is moving the pieces to make the same shape showing on board.  The rule is: When even number pieces are overlapping, the overlapped part will be eliminated and display background(Black + Black = White). In Tricolor mode, when two different color pieces are overlapping the overlapped part will show another color(Red + Green = Blue).</p>
-<p>Player can make the shape at any place on the board.  Player also can overlap on the original shape.</p>
-<p>Feature:<br>
-Nine Packages, 1020 Levels.<br>
-Big Play Area, Cover Mode.<br>
-Six Themes</p>
-<p>Getting Support:<br>
-mail: ywhfamily@hotmail.com<br>
-or leave comment below.</p>
-<table>
-<tr align="center">
-<th>
-<a href="https://itunes.apple.com/cn/app/id1438283033"><img src="/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.overlap"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
-</th>
-<th>
-<a href="https://itunes.apple.com/cn/app/id1437754475"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9NBW9NN8QQP8"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
